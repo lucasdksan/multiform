@@ -47,7 +47,7 @@ function FormStep3() {
   return (
     <Theme>
       <Container>
-        <p>Passo 3/3 - {state.name}</p>
+        <p>Passo 3/3</p>
         <h1>Legal {state.name}, onde te achamos?</h1>
         <p>Preencha com seus contatos para conseguirmos entrar em contato.</p>
         <hr />
